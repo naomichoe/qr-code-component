@@ -15,13 +15,30 @@ body {
 
 h3 {
     color: hsl(218, 44%, 22%);
+    font-size: 1.2rem;
+    font-weight: 700;
 }
 
 p {
     color: hsl(220, 15%, 55%);
+    margin: 20px 0;
+    padding: 0 10px;
+    font-weight: 400;
 }
 
+img {
+    max-width: 290px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
 
+.main-container {
+    background-color: hsl(0, 0%, 100%);
+    max-width: 330px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 60px auto;
+}
 
 
 
